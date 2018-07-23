@@ -27,8 +27,13 @@ Active and passive measures to stop attacks and malicious intent in its tracks.
 - Daily Backups. Restore your Profit Trailer anytime.
 
 ## Speed Obsessive Architecture
-
 100% Intel Cores. Featuring complete resource isolation, automatic scalability, and high availability. Located in one of the most secured Data Center in Europe.
 - 4 GB Guaranteed Ram + VSwap. 4 CPU cores.
 - 250 Mbps. Unlimited bandwidth. Burstable to 1 GBPS.
 - 20 GB SSD Storage + Free Backup Storage.
+
+## Running Profit Trailer on your own VPS?
+We help you migrate to RapidVM for free. Moving your ProfitTrailer to RapidVM won’t incur any downtime. Our expert migration team will take care of everything for you.
+<a href="https://rapidvm.io/?page_id=340">Click here to migrate to RapidVM</a>
+
+For Pricing and more information, please visit <a href="https://rapidvm.io">rapidvm.io</a>
